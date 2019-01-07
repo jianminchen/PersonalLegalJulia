@@ -9,7 +9,7 @@ It is a new year. It is the day one for me to open a repository called PersonalL
 
 
 2016 Canada Sponsor application<br>
-[My sponsor application]{http://juliachencoding.blogspot.com/2017/07/sponsor-application-project.html}<br>
+[My sponsor application](http://juliachencoding.blogspot.com/2017/07/sponsor-application-project.html)<br>
 
 
 
